@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    color: rgb(54, 54, 17);
+    background-color: rgb(182, 182, 60);
+    border-bottom: 8px solid rgb(88, 88, 18);
+    height: 100px;
+    padding-left: 10px;
+    padding-top: 40px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+    font-weight: lighter;
+}
+
+form{
+    padding: 50px 10px;
+}
+
+input{
+    border: 2px solid rgb(88, 88, 18);
+    border-radius: 6px;
+    padding: 4px;
+    width: 600px;
+}
+
+#botao{
+    border: 2px solid rgb(88, 88, 18);
+    border-radius: 6px;
+    background-color: rgb(235, 235, 74);
+    color: rgb(54, 54, 17);
+    padding: 4px;
+    cursor: pointer;
+}
+
+li{
+    padding-left: 10px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 24px;
+}
+
+#tarefa-postada{
+    cursor: pointer;
+    font-family: 'Dancing Script', cursive;
+    font-size: 24px;
+    border: none;
+    background-color: white;
+}
+
+.feito{
+    text-decoration: line-through;
+}
+
+
+
